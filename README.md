@@ -12,7 +12,7 @@ Server (RESTFul Web Services):
   - ASP.NET Web API
   - MySQL
 
-Client (Desktop and mobile apps):
+Client (Web and mobile apps):
   - JavaScript (jquery, angular, cordova, ionic)
   - HTML5
   - CSS
